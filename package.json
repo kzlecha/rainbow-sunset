@@ -1,0 +1,21 @@
+{
+    "name": "rainbow-sunset",
+    "displayName": "Rainbow Sunset",
+    "description": "Rainbow Sunset Color Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Rainbow Sunset",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Rainbow Sunset-color-theme.json"
+            }
+        ]
+    }
+}
