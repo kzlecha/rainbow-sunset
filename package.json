@@ -3,6 +3,11 @@
     "displayName": "Rainbow Sunset",
     "description": "Rainbow Sunset Color Theme",
     "version": "0.0.1",
+    "publisher": "kzlecha",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kzlecha/rainbow-sunset"
+    },
     "engines": {
         "vscode": "^1.57.0"
     },
