@@ -15,3 +15,6 @@ Color Palletes Generated:
 
 ## Setting
 When installation completes, select "Rainbow Sunset" as your color theme (Preferences → Workbench: Color Theme → Rainbow Sunset)
+
+## Screenshot
+![Screenshot of sample code](screenshot.png "Screenshot")
