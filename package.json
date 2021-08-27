@@ -19,7 +19,7 @@
             {
                 "label": "Rainbow Sunset",
                 "uiTheme": "vs-dark",
-                "path": "./themes/rainbow-sunset-color-theme.json"
+                "path": "./themes/rainbow-sunset.json"
             }
         ]
     }
