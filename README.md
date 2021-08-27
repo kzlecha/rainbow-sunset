@@ -1,13 +1,13 @@
 # Rainbow Sunset
 
-Rainbow Sunset is a minimal, dark syntax and color theme using warm, bright colors
-for easy differentation generated for [Visual Studio Code](https://code.visualstudio.com/).
+Rainbow Sunset is a minimal, dark syntax and color theme using warm, bright colors for easy differentation created for [Visual Studio Code](https://code.visualstudio.com/).
 
 Rainbow Sunset was created with a focus in Python development. Any suggestions for improvement
 are welcome!
 
 ## Color Scheme
-Selection of specific hex-code colors was aided via [coolors.co](https://coolors.co/).
+While general colors were selected by the creator, the selection of specific hex-codes
+ was aided via [coolors.co](https://coolors.co/).
 
 Color Palletes Generated:
 - [Color Elements](https://coolors.co/d03d3a-f88387-fea880-fad47c-87c999-6ca5b2-b1a2f6-e987cd)
