@@ -386,7 +386,7 @@
 				"entity.name.type.class"
 			],
 			"settings": {
-				"foreground": "#E987CD",
+				"foreground": "#E987CD"
 			}
 		},
 		{
@@ -462,7 +462,7 @@
 				"markup.bold markup.italic",
 				"markup.italic markup.bold",
 				"markup.bold markup.italic string",
-				"markup.italic markup.bold string",
+				"markup.italic markup.bold string"
 			],
 			"settings": {
 				"fontStyle": "italic bold",
@@ -497,7 +497,7 @@
 		{
 			"scope": [
 				"punctuation.definition.quote.begin.markdown",
-				"punctuation.definition.list.begin.markdown",
+				"punctuation.definition.list.begin.markdown"
 			],
 			"settings": {
 				"foreground": "#E987CD"
@@ -580,7 +580,7 @@
 			"settings": {
 				"foreground": "#6CA5B2"
 			}
-		},
+		}
 	],
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
